@@ -13,7 +13,7 @@ INSERT INTO `shops2` (store, item, price) VALUES
 	('narekshop','yusuf',30),
 	('narekshop','grip',30),
 	('narekshop','flashlight',30),
-	('narekshop','silencieux',15)
+	('narekshop','silencieux',15), 
 	('narekshop','clip',15)
 ;
 
